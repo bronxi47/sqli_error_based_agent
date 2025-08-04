@@ -1,0 +1,4 @@
+GET /artists.php?artist=1 HTTP/1.1
+Host: testphp.vulnweb.com
+User-Agent: Mozilla/5.0
+Accept: */*
