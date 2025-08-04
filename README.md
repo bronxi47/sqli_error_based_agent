@@ -62,10 +62,6 @@ REQUEST_TIMEOUT=10
 CONFIDENCE_THRESHOLD=0.7
 ```
 
-### 5. Activar entorno virtual (en futuras sesiones)
-```bash
-source venv/bin/activate
-```
 
 ## Uso
 
