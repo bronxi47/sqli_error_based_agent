@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### 4. Configurar variables de entorno
 ```bash
 # Copiar el archivo de ejemplo
-cp env.example .env
+cp env_example.txt .env
 
 # Editar el archivo .env con tu API key
 vi .env
