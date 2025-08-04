@@ -26,7 +26,7 @@ Agente autónomo en Python para detectar vulnerabilidades SQL Injection (Error-B
 ### 1. Clonar el repositorio
 ```bash
 # Clonar el repositorio
-git clone <url_del_repositorio>
+git clone https://github.com/bronxi47/sqli_error_based_agent.git
 cd sqli_error_agent
 ```
 
